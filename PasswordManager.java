@@ -5,6 +5,10 @@ import java.util.Scanner;
 // It allows users to log in and checks password strength.
 // Also provides an option to generate or manually set a new password.
 
+// Demo Credentials, You can test the system using the following credentials:
+// Username: Aland
+// Password: aland!@#123
+
 class PasswordManager {
 
     // Command line text colors
@@ -15,10 +19,6 @@ class PasswordManager {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Demo Credentials, You can test the system using the following credentials:
-        // Username: Aland
-        // Password: aland!@#123
 
         // Database of users and their corresponding hashed passwords
         String[] username = { "Aland", "Ashkan", "Akar", "Mohammad" };
