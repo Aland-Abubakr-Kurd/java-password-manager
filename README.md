@@ -52,9 +52,9 @@ I've kept this repository in its original form to document my early journey in J
 
 ## • How to Run
 
-1. Clone the repository:
+1. Clone the repository
 
-2. Open the project in your IDE (e.g., IntelliJ)
+2. Open the project in your IDE
 
 3. Run the `PasswordManager.java` file
 
